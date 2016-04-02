@@ -3,6 +3,7 @@ var xio = document.getElementById("xio");
 
 xio.onmouseover = function () {
     xio.style.color = '#3C729D';
+    xio.style.cursor = 'pointer';
 };
 
 xio.onmouseout = function () {
@@ -19,6 +20,7 @@ var xio2 = document.getElementById("xio2");
 
 xio2.onmouseover = function () {
     xio2.style.color = '#3C729D';
+    xio2.style.cursor = 'pointer';
 };
 
 xio2.onmouseout = function () {
@@ -35,6 +37,7 @@ var dots = document.getElementById("dots");
 
 dots.onmouseover = function () {
     dots.style.color = '#3C729D';
+    dots.style.cursor = 'pointer';
 };
 
 dots.onmouseout = function () {
@@ -51,6 +54,7 @@ var vim = document.getElementById("vim");
 
 vim.onmouseover = function () {
     vim.style.color = '#3C729D';
+    vim.style.cursor = 'pointer';
 };
 
 vim.onmouseout = function () {
@@ -67,6 +71,7 @@ var emacs = document.getElementById("emacs");
 
 emacs.onmouseover = function () {
     emacs.style.color = '#3C729D';
+    emacs.style.cursor = 'pointer';
 };
 
 emacs.onmouseout = function () {

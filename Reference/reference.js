@@ -2,6 +2,7 @@ var CppOnMac = document.getElementById("CppOnMac");
 
 CppOnMac.onmouseover = function() {
     CppOnMac.style.color = '#3C729D';
+    CppOnMac.style.cursor = 'pointer';
 };
 
 CppOnMac.onmouseout = function() {
@@ -16,6 +17,7 @@ var FollyWangleProxy = document.getElementById("FollyWangleProxy");
 
 FollyWangleProxy.onmouseover = function() {
     FollyWangleProxy.style.color = '#3C729D';
+    FollyWangleProxy.style.cursor = 'pointer';
 };
 
 FollyWangleProxy.onmouseout = function() {
