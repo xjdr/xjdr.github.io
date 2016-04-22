@@ -18,7 +18,7 @@ var forgot2code = document.getElementById("forgot2code");
 forgot2code.onmouseover = function () {
     forgot2code.style.color = '#3C729D';
     forgot2code.style.cursor = 'pointer';
-};
+}; 
 
 forgot2code.onmouseout = function () {
     forgot2code.style.color = 'black'
